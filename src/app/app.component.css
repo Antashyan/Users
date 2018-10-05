@@ -1,0 +1,29 @@
+.main {
+  width: 100%;
+
+}
+
+.fieldset {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.table {
+  background: yellow;
+  border: 2px solid;
+  padding: 2px;
+}
+
+.table tr td {
+  width: 400px;
+}
+
+.table tr td input {
+  border-radius: 20px;
+  height: 20px;
+  text-indent: 10px;
+}
+
+.redError {
+  color: red;
+}
